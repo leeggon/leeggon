@@ -10,7 +10,7 @@
  
 <br>
 
-## 📞 Contact 📞
+# 📞 Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:leeggon6264@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -20,7 +20,7 @@
     </a>
 </div><br>
     
-## 🔨 SKILLS 🔨
+# 🔨 SKILLS
 ### 💡 Front-end
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -39,7 +39,7 @@
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ✏️ Baekjoon ✏️
+# ✏️ Baekjoon
 <div style="display:flex; flex-direction:row;">
 </div>
 
