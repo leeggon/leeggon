@@ -52,7 +52,7 @@
 <div style="display:flex; flex-direction:row;">
 </div>
 
-# [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gangco)](https://solved.ac/gangco)
+# [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gangco)](https://solved.ac/gangco)
 
 </br>
 
