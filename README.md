@@ -13,7 +13,7 @@ leeggon1213@naver.com
 
 <br>
     
-# 🔨 SKILLS
+# :wrench: SKILLS
 ### ✏️ Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
@@ -48,7 +48,7 @@ leeggon1213@naver.com
 <br>
 <br>
 
-# ✏️ Baekjoon
+# 🔥  Algorithm
 <div style="display:flex; flex-direction:row;">
 </div>
 
