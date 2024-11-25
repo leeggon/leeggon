@@ -33,6 +33,8 @@ leeggon1213@naver.com
 <img src="https://img.shields.io/badge/QueryDSL-50ABF1?style=for-the-badge">
 <img src="https://img.shields.io/badge/Spring Data JPA-F8DC75?style=for-the-badge">
 <img src="https://img.shields.io/badge/MyBatis-00599C?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/WebSocket-005C84?style=for-the-badge">
+<img src="https://img.shields.io/badge/STOMP-005C84?style=for-the-badge">
 
 
 ### 💾 DB
